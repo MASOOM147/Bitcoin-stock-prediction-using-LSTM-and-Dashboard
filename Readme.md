@@ -24,7 +24,7 @@ This Python code generates an interactive dashboard for visualizing cryptocurren
 
 Before using the dashboard, ensure you have the necessary Python packages installed. You can install them using the following commands:
 
-    ```python
+     ```python
     !pip install pandas_ta
     !pip install python- binance
     !pip install mplfinance
